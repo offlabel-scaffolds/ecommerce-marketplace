@@ -1,0 +1,43 @@
+{
+  "name": "ecommerce-marketplace",
+  "displayName": "Multi-vendor E-commerce Marketplace",
+  "description": "Complete marketplace platform with vendor management, payments, and logistics",
+  "version": "1.0.0",
+  "author": "Augustus Rivers - Offlabel Design",
+  "license": "MIT",
+  "repository": "https://github.com/offlabel-scaffolds/ecommerce-marketplace",
+  "tech": [
+    "Next.js",
+    "Node.js",
+    "PostgreSQL",
+    "Redis",
+    "Stripe"
+  ],
+  "categories": [
+    "fullstack",
+    "ecommerce"
+  ],
+  "usecases": [
+    "ecommerce",
+    "saas"
+  ],
+  "priority": "high",
+  "maturity": "stable",
+  "complexity": "advanced",
+  "features": [
+    "Multi-vendor",
+    "Inventory",
+    "Orders",
+    "Shipping",
+    "Reviews",
+    "Analytics"
+  ],
+  "hasDemo": true,
+  "hasCLI": false,
+  "securityFeatures": [
+    "Authentication",
+    "Rate Limiting",
+    "CORS"
+  ],
+  "lastUpdated": "2025-10-03"
+}
