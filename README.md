@@ -51,7 +51,6 @@ npm run dev
 
 This scaffold includes built-in compliance features for:
 
-
 - Secure authentication and authorization
 - Rate limiting and DDoS protection
 - Security headers and CORS
